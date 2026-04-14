@@ -1,0 +1,17 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    namespace 'com.horsa.shadowlib'
+    compileSdk 34 // Use your current compileSdk version
+
+    defaultConfig {
+        minSdk 21
+        targetSdk 34
+    }
+}
+
+dependencies {
+    // Empty for now, as your custom view doesn't need external libraries
+}
