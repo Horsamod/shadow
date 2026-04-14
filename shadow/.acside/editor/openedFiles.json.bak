@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/data/user/0/com.tom.rv2ide/files/home/ACSProjects/TestPorject/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 25,
+          "index": 466,
+          "line": 20
+        },
+        "start": {
+          "column": 25,
+          "index": 466,
+          "line": 20
+        }
+      }
+    }
+  ],
+  "selectedFile": "/data/user/0/com.tom.rv2ide/files/home/ACSProjects/TestPorject/app/build.gradle"
+}
