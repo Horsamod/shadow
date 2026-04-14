@@ -18,9 +18,10 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.horsa.shadowlib'
-                artifactId = 'css-shadow-layout'
-                version = '1.0'
+                // Change "YourGitHubUsername" to your actual GitHub name!
+                groupId = 'com.github.Horsamod' 
+                artifactId = 'cssshadow'
+                version = '1.0.0'
             }
         }
     }
@@ -29,3 +30,5 @@ afterEvaluate {
 dependencies {
     // Empty for now, as your custom view doesn't need external libraries
 }
+
+
