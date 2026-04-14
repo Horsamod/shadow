@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CssShadowLayout">
+        <attr name="shadowColor" format="color" />
+        <attr name="shadowBlur" format="dimension" />
+        <attr name="shadowOffsetX" format="dimension" />
+        <attr name="shadowOffsetY" format="dimension" />
+        <attr name="shadowSpread" format="dimension" />
+        <attr name="shadowCornerRadius" format="dimension" />
+        <attr name="shadowFillColor" format="color" />
+    </declare-styleable>
+</resources>
