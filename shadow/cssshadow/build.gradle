@@ -21,7 +21,7 @@ afterEvaluate {
                 // Change "YourGitHubUsername" to your actual GitHub name!
                 groupId = 'com.github.Horsamod' 
                 artifactId = 'cssshadow'
-                version = '1.0'
+                version = '1.0.1'
             }
         }
     }
