@@ -11,6 +11,11 @@ android {
         minSdk 21
         targetSdk 34
     }
+publishing {
+        singleVariant("release") {
+            withSourcesJar()
+        }
+    }
 }
 
 afterEvaluate {
